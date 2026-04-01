@@ -46,10 +46,10 @@ const joaoVitor = {
 
 ## 📊 GitHub Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=jbonpimentel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbonpimentel&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Pimentel0207&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pimentel0207&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jbonpimentel&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pimentel0207&theme=tokyonight&hide_border=true" />
 
 ---
 
@@ -68,7 +68,7 @@ const joaoVitor = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pimentel-9235b9387?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.pimentel0207@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jbonpimentel)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pimentel0207)
 
 ---
 
